@@ -1,5 +1,5 @@
 # Systems Administration
 Custom Scripts and Tools for Systems Administration
 
-* [Azure Resource Cleanup](azure-resource-cleanup.sh)
-* [Docker Image & Container Cleanup](docker-cleanup.sh)
+* [Azure Resource Cleanup](bash-scripts/azure-resource-cleanup.sh)
+* [Docker Image & Container Cleanup](bash-scripts/docker-cleanup.sh)
